@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+Sitemap: https://va-pc.ru/sitemap.xml
+User-agent: *
+Disallow:
